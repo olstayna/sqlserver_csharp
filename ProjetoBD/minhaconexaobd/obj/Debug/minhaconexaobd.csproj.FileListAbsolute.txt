@@ -1,0 +1,7 @@
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\bin\Debug\minhaconexaobd.exe.config
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\bin\Debug\minhaconexaobd.exe
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\bin\Debug\minhaconexaobd.pdb
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\obj\Debug\minhaconexaobd.csprojAssemblyReference.cache
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\obj\Debug\minhaconexaobd.csproj.CoreCompileInputs.cache
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\obj\Debug\minhaconexaobd.exe
+C:\Users\tayna\Desktop\ProjetoBD\ProjetoBD\minhaconexaobd\obj\Debug\minhaconexaobd.pdb
